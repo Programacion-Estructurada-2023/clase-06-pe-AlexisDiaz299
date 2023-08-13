@@ -93,6 +93,8 @@ namespace MyApp// Note: actual namespace depends on the project name.
           Console.Write("\n---------- FIN DE IMPRESION DE fecha -----------\n\n");
           Console.Write("\n\n\n***************************************************\n\n");
 
+          //U20230538 JASON ALEXIS GARCIA DIAZ
+
           //AUTOEVALUACION 10
 
         }

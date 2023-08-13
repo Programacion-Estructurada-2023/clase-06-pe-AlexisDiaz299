@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexis\\Desktop\\PROGRAMACION\\Tareas programacion\\Clase 06\\clase-06-pe-AlexisDiaz299\\clase-06-pe-AlexisDiaz299.csproj": {}
+    "c:\\Users\\Alexis\\Desktop\\PROGRAMACION\\Tareas programacion\\Clase 06\\clase-06-pe-AlexisDiaz299\\clase-06-pe-AlexisDiaz299.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexis\\Desktop\\PROGRAMACION\\Tareas programacion\\Clase 06\\clase-06-pe-AlexisDiaz299\\clase-06-pe-AlexisDiaz299.csproj": {
+    "c:\\Users\\Alexis\\Desktop\\PROGRAMACION\\Tareas programacion\\Clase 06\\clase-06-pe-AlexisDiaz299\\clase-06-pe-AlexisDiaz299.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexis\\Desktop\\PROGRAMACION\\Tareas programacion\\Clase 06\\clase-06-pe-AlexisDiaz299\\clase-06-pe-AlexisDiaz299.csproj",
+        "projectUniqueName": "c:\\Users\\Alexis\\Desktop\\PROGRAMACION\\Tareas programacion\\Clase 06\\clase-06-pe-AlexisDiaz299\\clase-06-pe-AlexisDiaz299.csproj",
         "projectName": "clase-06-pe-AlexisDiaz299",
-        "projectPath": "C:\\Users\\Alexis\\Desktop\\PROGRAMACION\\Tareas programacion\\Clase 06\\clase-06-pe-AlexisDiaz299\\clase-06-pe-AlexisDiaz299.csproj",
+        "projectPath": "c:\\Users\\Alexis\\Desktop\\PROGRAMACION\\Tareas programacion\\Clase 06\\clase-06-pe-AlexisDiaz299\\clase-06-pe-AlexisDiaz299.csproj",
         "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexis\\Desktop\\PROGRAMACION\\Tareas programacion\\Clase 06\\clase-06-pe-AlexisDiaz299\\obj\\",
+        "outputPath": "c:\\Users\\Alexis\\Desktop\\PROGRAMACION\\Tareas programacion\\Clase 06\\clase-06-pe-AlexisDiaz299\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config"
